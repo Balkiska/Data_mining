@@ -14,4 +14,4 @@ Mise en place de l'environnement :
     Sur Windows : .\venv\Scripts\Activate
     Sur macOS et Linux : source venv/bin/activate
 
-Si besoin de pandas : pip install pandas
+
